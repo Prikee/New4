@@ -1,0 +1,15 @@
+C:\Users\Rustam\Desktop\Repo\Examples\Ex111\bin\Debug\net6.0\Ex111.exe
+C:\Users\Rustam\Desktop\Repo\Examples\Ex111\bin\Debug\net6.0\Ex111.deps.json
+C:\Users\Rustam\Desktop\Repo\Examples\Ex111\bin\Debug\net6.0\Ex111.runtimeconfig.json
+C:\Users\Rustam\Desktop\Repo\Examples\Ex111\bin\Debug\net6.0\Ex111.dll
+C:\Users\Rustam\Desktop\Repo\Examples\Ex111\bin\Debug\net6.0\Ex111.pdb
+C:\Users\Rustam\Desktop\Repo\Examples\Ex111\obj\Debug\net6.0\Ex111.csproj.AssemblyReference.cache
+C:\Users\Rustam\Desktop\Repo\Examples\Ex111\obj\Debug\net6.0\Ex111.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rustam\Desktop\Repo\Examples\Ex111\obj\Debug\net6.0\Ex111.AssemblyInfoInputs.cache
+C:\Users\Rustam\Desktop\Repo\Examples\Ex111\obj\Debug\net6.0\Ex111.AssemblyInfo.cs
+C:\Users\Rustam\Desktop\Repo\Examples\Ex111\obj\Debug\net6.0\Ex111.csproj.CoreCompileInputs.cache
+C:\Users\Rustam\Desktop\Repo\Examples\Ex111\obj\Debug\net6.0\Ex111.dll
+C:\Users\Rustam\Desktop\Repo\Examples\Ex111\obj\Debug\net6.0\refint\Ex111.dll
+C:\Users\Rustam\Desktop\Repo\Examples\Ex111\obj\Debug\net6.0\Ex111.pdb
+C:\Users\Rustam\Desktop\Repo\Examples\Ex111\obj\Debug\net6.0\Ex111.genruntimeconfig.cache
+C:\Users\Rustam\Desktop\Repo\Examples\Ex111\obj\Debug\net6.0\ref\Ex111.dll
